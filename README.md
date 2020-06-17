@@ -6,8 +6,8 @@ Developed with Unreal Engine 4
 Movement Controls
 
   1. MoveForward
-      *. W
-      *. UpArrow
+      * W
+      * UpArrow
   2. MoveBackwards
     * S
     * DownArrow
