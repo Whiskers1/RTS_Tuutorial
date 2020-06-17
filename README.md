@@ -3,37 +3,35 @@
 Developed with Unreal Engine 4
 
 
-Movement Controls
-
+### Player Controls
+---
   1. MoveForward
       * W
       * UpArrow
   2. MoveBackwards
-    * S
-    * DownArrow
+      * S
+      * DownArrow
   3. MoveRight
-    * D
-    * RightArrow
+      * D
+      * RightArrow
   4. MoveLeft
-    * A
-    * LeftArrow
-  
+      * A
+      * LeftArrow     
   5. ZoomIn
-    * MouseWheelUp
-    * PageUp
+      * MouseWheelUp
+      * PageUp
   6. ZoomOut
-    * MouseWheelDown
-    * Page Down
+      * MouseWheelDown
+      * Page Down
   7. ZoomReset
-    * MiddleMouseButton + Shift
-    * Home
-  
+      * MiddleMouseButton + Shift
+      * Home  
   8. Pan
-    * MiddleMouseButton
+      * MiddleMouseButton
   9. PanReset
-    * MiddleMouseButton + Alt
-    * Home + Alt
+      * MiddleMouseButton + Alt
+      * Home + Alt
   10. SpeedModifier
-    * LeftShift
-    * RightShift
+      * LeftShift
+      * RightShift
     
